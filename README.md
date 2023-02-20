@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm currently working on flask app and telegram bot.<br>I'm looking for advice and mentorship in my Python developer journey.<br>I'm currently learning PostgreSQL, aiogram, flask.<br>A few facts: I am a QA Engineer and a geneticist with a master's degree, and I love learning Python!
+# :man_technologist: About Me:
+- :telescope: I'm currently working as a Test Engineer.<br>
+- :smile_cat: I'm looking for advice and mentorship in my Python developer journey.<br>
+- :man_dancing: I'm currently learning PostgreSQL, aiogram, flask.<br> 
+- :man_scientist: I have a master's degree in genetics, and I love learning Python!
 
 
 # 💻 Tech Stack:
