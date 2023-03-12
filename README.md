@@ -4,6 +4,7 @@
 - :man_dancing: I'm currently learning PostgreSQL, aiogram, flask.<br> 
 - :man_scientist: I have a master's degree in genetics, and I love learning Python!
 
+![](https://www.codewars.com/users/Budt/badges/small)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
