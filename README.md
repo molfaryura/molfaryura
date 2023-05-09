@@ -1,7 +1,7 @@
 # :man_technologist: About Me:
 - :telescope: I'm currently working as a Test Engineer.<br>
 - :smile_cat: I'm looking for advice and mentorship in my Python developer journey.<br>
-- :man_dancing: I'm currently learning PostgreSQL, Tkinter, Flask.<br> 
+- :man_dancing: I'm currently learning Data Analysis(pandas, numpy, matplotlib).<br> 
 - :man_scientist: I have a master's degree in genetics, and I love learning Python!
 
 ![](https://www.codewars.com/users/Budt/badges/small)
