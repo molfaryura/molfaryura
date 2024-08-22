@@ -1,5 +1,5 @@
 # :man_technologist: About Me:
-- :man_scientist: I have a master's degree in genetics, and I love learning Python!
+:man_scientist: I have a master's degree in genetics, and I love learning Python!
 
 ![](https://www.codewars.com/users/Budt/badges/small)
 
